@@ -1,0 +1,3 @@
+package vanetaccident;
+
+@license(LGPL);
